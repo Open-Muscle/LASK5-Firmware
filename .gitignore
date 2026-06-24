@@ -8,3 +8,6 @@ __pycache__/
 .DS_Store
 Thumbs.db
 *.log
+
+# Runtime per-device credentials (filled by PROVISIONING.md flow)
+config/settings.json
